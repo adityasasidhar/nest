@@ -2,3 +2,7 @@
 .idea
 *__pycache__*
 .env
+.python-version
+.mypy_cache/
+.ruff_cache/
+.uv-cache/

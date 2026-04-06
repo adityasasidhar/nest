@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 from typing import Any, Dict, List, Optional
 from schema.responses import Response, Subagentprompt
+import ollama
 
 class Agent:
     def __init__(
